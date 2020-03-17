@@ -1,0 +1,26 @@
+{
+  "name": "gsap_exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "beachball.js",
+  "scripts": {
+    "start": "parcel beachball.html --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenn3204/greensock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenn3204/greensock/issues"
+  },
+  "homepage": "https://github.com/jenn3204/greensock#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "gsap": "^3.2.4"
+  }
+}
